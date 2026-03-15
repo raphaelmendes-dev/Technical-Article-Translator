@@ -1,0 +1,18 @@
+@'
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Node
+node_modules/
+.next/
+.env.local
+.env*.local
+
+# Sistema
+.DS_Store
+Thumbs.db
+'@ | Out-File -FilePath .gitignore -Encoding utf8
