@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 <div align="center">
-  <img src="assets/Rs4Machine.jpeg" alt="Rs4Machine Logo" width="380" />
+  <img src="assets/Rs4Machine.png" alt="Rs4Machine Logo" width="380" />
   <h1>⟨/⟩ Translatia — Rs4Machine</h1>
   <img src="assets/translatia.gif" alt="Translatia Demo" width="100%" />
   <p><strong>Technical Translation Engine v2.0</strong></p>
